@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Pub\\Controller\\SearchForum",
+    "to_class": "Hampel\\HideSidebar\\XF\\Pub\\Controller\\SearchForum",
+    "execute_order": 10,
+    "active": true
+}

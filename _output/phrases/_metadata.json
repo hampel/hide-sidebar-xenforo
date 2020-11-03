@@ -1,0 +1,26 @@
+{
+    "option.hampelHideSidebarNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "2451cd8d4bdf9bac45c2da208f272f8d"
+    },
+    "option_explain.hampelHideSidebarNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "78ede9fef51e7b0f39a46a5b8c8fb34d"
+    },
+    "option_group.hampelHideSidebar.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "660024e773900b3662ac448476b680aa"
+    },
+    "option_group_description.hampelHideSidebar.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "c0dc3a3817930f5a2765922065f3b9ea"
+    }
+}
