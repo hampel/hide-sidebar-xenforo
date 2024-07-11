@@ -7,10 +7,10 @@
     "dev": "Simon Hampel",
     "dev_url": "https://xenforo.com/community/members/sim.4264/",
     "faq_url": "",
-    "support_url": "https://bitbucket.org/hampel/hide-sidebar/issues",
+    "support_url": "https://xenforo.com/community/threads/hide-sidebar.187296/",
     "extra_urls": {
-        "Git Repository": "https://bitbucket.org/hampel/hide-sidebar",
-        "Twitter": "https://twitter.com/SimonHampel"
+        "Git Repository": "https://github.com/hampel/hide-sidebar-xenforo",
+        "Addon": "https://xenforo.com/community/resources/hide-sidebar.8107/"
     },
     "require": {
         "XF": [
