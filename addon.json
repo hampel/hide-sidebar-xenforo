@@ -9,8 +9,8 @@
     "faq_url": "",
     "support_url": "https://xenforo.com/community/threads/hide-sidebar.187296/",
     "extra_urls": {
-        "Git Repository": "https://github.com/hampel/hide-sidebar-xenforo",
-        "Addon": "https://xenforo.com/community/resources/hide-sidebar.8107/"
+        "Addon": "https://xenforo.com/community/resources/hide-sidebar.8107/",
+        "Git Repository": "https://github.com/hampel/hide-sidebar-xenforo"
     },
     "require": {
         "XF": [
